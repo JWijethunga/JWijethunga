@@ -1,17 +1,21 @@
-### Hi there 👋, my name is Janadheepa
-#### I am self-taught coder
-![I am self-taught coder](https://media.licdn.com/dms/image/D5616AQECS6tpRswjGg/profile-displaybackgroundimage-shrink_350_1400/0/1697634172901?e=1706140800&v=beta&t=kacl7pttbNUGm5HeokX6fZxkm4dcsFQwrO89DTDRFs4)
+# A Self-Made Coder's Journey: Janadheeepa 
 
-I made this project just for fun.
-
-Skills: PYTHON | HTML | CSS | BOOTSTRAP
-
- 
+I'm Janadheepa, a self-taught programmer driven by a passion for Back-end development . This repository showcases my learnings and projects, reflecting my continuous growth in the world of code.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JWijethunga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/janadheepa/)  
+**Skills & Expertise:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWijethunga)](https://github.com/anuraghazra/github-readme-stats)
+* **Languages:**
+    * python
+* **Frameworks/Libraries:**
+    * tkinter
+* **Tools & Technologies:**
+    * figma
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JWijethunga&show_icons=true)  
+
+**Connect with Me:**
+
+* **LinkedIn:** www.linkedin.com/in/janadheepa
+
+
 
