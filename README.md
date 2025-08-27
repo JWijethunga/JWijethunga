@@ -17,11 +17,9 @@ I'm Janadheepa, an undergraduate student with a passion for back-end development
 
 ### Projects
 
-This section is for your projects. You can add a heading for each project, a brief description, and a link to the project's folder or a live demo.
-
-**Password manager**
+**Password Manager**
 * Password manager application built with Python, Tkinter, and SQLite3. The primary purpose of this project is to manage and store passwords securely.
-* [Link to Project Folder]((https://github.com/JWijethunga/Password-Manager))
+* [Link to Project Folder](https://github.com/JWijethunga/Password-Manager)
 
 ---
 
