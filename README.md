@@ -1,21 +1,30 @@
-# A Self-Made Coder's Journey: Janadheeepa 
+# A Coder's Journey: Janadheepa
 
-I'm Janadheepa, a self-taught programmer driven by a passion for Back-end development . This repository showcases my learnings and projects, reflecting my continuous growth in the world of code.
+I'm Janadheepa, an undergraduate student with a passion for back-end development. This repository showcases my learnings and projects, reflecting my continuous growth in the world of code.
 
+---
 
-**Skills & Expertise:**
+### Skills & Expertise
 
 * **Languages:**
-    * python
+    * Python
 * **Frameworks/Libraries:**
-    * tkinter
+    * Tkinter
 * **Tools & Technologies:**
-    * figma
+    * Figma
 
+---
 
-**Connect with Me:**
+### Projects
 
-* **LinkedIn:** www.linkedin.com/in/janadheepa
+This section is for your projects. You can add a heading for each project, a brief description, and a link to the project's folder or a live demo.
 
+**Example Project Title**
+* A brief, one-sentence description of the project.
+* [Link to Project Folder](link-to-your-project-folder)
 
+---
 
+### Connect with Me
+
+* **LinkedIn:** (https://www.linkedin.com/in/janadheepa/)
