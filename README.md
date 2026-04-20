@@ -7,7 +7,7 @@ I'm Janadheepa, an undergraduate student with a passion for back-end development
 ### Skills & Expertise
 
 * **Languages:**
-    * Python
+    * c,Python
 * **Frameworks/Libraries:**
     * Tkinter
 * **Tools & Technologies:**
